@@ -1,27 +1,42 @@
 [
   {
-    "userGroupId": "grp-clarksons-ops",
-    "userGroupType": "CompanyGroup",
+    "userGroupId": "grp-london-hq",
+    "userGroupType": "Location",
     "users": [1001, 1002]
   },
   {
-    "userGroupId": "grp-maritime-external",
-    "userGroupType": "CompanyGroup",
-    "users": [1003, 1004]
+    "userGroupId": "grp-singapore-office",
+    "userGroupType": "Location",
+    "users": [1003]
   },
   {
-    "userGroupId": "grp-tanker-ops",
-    "userGroupType": "DepartmentGroup",
+    "userGroupId": "grp-tankers-division",
+    "userGroupType": "Division",
     "users": [1001]
   },
   {
-    "userGroupId": "grp-finance-global",
-    "userGroupType": "DepartmentGroup",
+    "userGroupId": "grp-corporate-division",
+    "userGroupType": "Division",
+    "users": [1002, 1004]
+  },
+  {
+    "userGroupId": "grp-tanker-ops-desk",
+    "userGroupType": "Desk",
+    "users": [1001]
+  },
+  {
+    "userGroupId": "grp-finance-desk",
+    "userGroupType": "Desk",
     "users": [1002]
   },
   {
-    "userGroupId": "grp-singapore-region",
-    "userGroupType": "LocationGroup",
-    "users": [1003]
+    "userGroupId": "grp-chartering-team",
+    "userGroupType": "Team",
+    "users": [1001, 1003]
+  },
+  {
+    "userGroupId": "grp-legal-team",
+    "userGroupType": "Team",
+    "users": [1004]
   }
 ]
