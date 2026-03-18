@@ -1,41 +1,41 @@
 [
   {
-    "userGroupId": "grp-london-hq",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000001",
     "userGroupType": "Location",
     "users": [1001, 1002]
   },
   {
-    "userGroupId": "grp-singapore-office",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000002",
     "userGroupType": "Location",
     "users": [1003]
   },
   {
-    "userGroupId": "grp-tankers-division",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000003",
     "userGroupType": "Division",
     "users": [1001]
   },
   {
-    "userGroupId": "grp-corporate-division",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000004",
     "userGroupType": "Division",
     "users": [1002, 1004]
   },
   {
-    "userGroupId": "grp-tanker-ops-desk",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000005",
     "userGroupType": "Desk",
     "users": [1001]
   },
   {
-    "userGroupId": "grp-finance-desk",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000006",
     "userGroupType": "Desk",
     "users": [1002]
   },
   {
-    "userGroupId": "grp-chartering-team",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000007",
     "userGroupType": "Team",
     "users": [1001, 1003]
   },
   {
-    "userGroupId": "grp-legal-team",
+    "userGroupId": "a1f3e2d4-1c2b-4e5f-8a9b-000000000008",
     "userGroupType": "Team",
     "users": [1004]
   }
