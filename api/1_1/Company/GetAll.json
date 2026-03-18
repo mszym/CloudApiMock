@@ -1,0 +1,35 @@
+[
+  {
+    "companyId": 1,
+    "name": "Clarksons Shipping Ltd",
+    "logoPath": "/logos/clarksons-shipping.png",
+    "hasAccessToMarineSync": true,
+    "isUnvarified": false,
+    "isAuthConfigurationMandatory": true,
+    "imageUrl": "https://cdn.example.com/images/clarksons-shipping.png",
+    "defaultLicenceAccountCodeId": 101,
+    "companyStatusId": 1
+  },
+  {
+    "companyId": 2,
+    "name": "Maritime Solutions Group",
+    "logoPath": "/logos/maritime-solutions.png",
+    "hasAccessToMarineSync": true,
+    "isUnvarified": false,
+    "isAuthConfigurationMandatory": false,
+    "imageUrl": "https://cdn.example.com/images/maritime-solutions.png",
+    "defaultLicenceAccountCodeId": 102,
+    "companyStatusId": 1
+  },
+  {
+    "companyId": 3,
+    "name": "Ocean Freight Partners",
+    "logoPath": null,
+    "hasAccessToMarineSync": false,
+    "isUnvarified": true,
+    "isAuthConfigurationMandatory": null,
+    "imageUrl": null,
+    "defaultLicenceAccountCodeId": null,
+    "companyStatusId": 2
+  }
+]

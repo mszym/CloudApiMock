@@ -1,0 +1,27 @@
+[
+  {
+    "userGroupId": "grp-clarksons-ops",
+    "userGroupType": "CompanyGroup",
+    "users": [1001, 1002]
+  },
+  {
+    "userGroupId": "grp-maritime-external",
+    "userGroupType": "CompanyGroup",
+    "users": [1003, 1004]
+  },
+  {
+    "userGroupId": "grp-tanker-ops",
+    "userGroupType": "DepartmentGroup",
+    "users": [1001]
+  },
+  {
+    "userGroupId": "grp-finance-global",
+    "userGroupType": "DepartmentGroup",
+    "users": [1002]
+  },
+  {
+    "userGroupId": "grp-singapore-region",
+    "userGroupType": "LocationGroup",
+    "users": [1003]
+  }
+]
